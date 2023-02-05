@@ -1,0 +1,32 @@
+.supershop {
+  width: 200px;
+  margin: 0 auto;
+  background: purple;
+  height: 319px;
+  padding: 7px 20px;
+  border-radius: 10px;
+  border: 5px solid rgb(0, 0, 0);
+}
+.superform input {
+  width: 100%;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.superform button {
+  margin-left: 22%;
+  padding: 10px 28px;
+  text-transform: uppercase;
+  background: white;
+  border-radius: 8px;
+  font-weight: 600;
+}
+.superform label {
+  color: white;
+  font-size: 17px;
+}
+.superform h1 {
+  margin-top: 54px;
+  color: white;
+  font-size: 28px;
+}
